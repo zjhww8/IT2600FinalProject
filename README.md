@@ -6,5 +6,5 @@
 > A tutorial regarding password managers and generators is useful to ANYBODY who has any accounts on the internet or in vulnerable places. For those who have a large online presence or if you deal with sensitive data a password manager would be very helpful to you and this video would be most useful. 
 
 
-<a href="https://www.youtube.com/watch?v=KroK5EGmjVQ" target="_blank"><img src="https://www.youtube.com/watch?v=KroK5EGmjVQ" 
+<a href="https://www.youtube.com/watch?v=KroK5EGmjVQ" target="_blank"><img src="ImageSecurity.jpg" 
 alt="Password Managers Video" width="240" height="180" border="10" /></a>
